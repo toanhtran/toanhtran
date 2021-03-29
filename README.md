@@ -1,6 +1,6 @@
 ## Hi, I'm ToAnh Tran 👋🏼 👩🏻‍💻
 
-I'm a Web and Mobile Developer. I'm the founder of  [MilSpouse Coders](https:https://milspousecoders.org/) and Co-founder of [Vindicta](https://vindicta.dev/). At MilSpouse Coders is dedicated To empowering Military Spouses around the globe to tind challenging and fulfilling careers in technology.
+I'm a Web and Mobile Developer. I'm the founder of  [MilSpouse Coders](https:https://milspousecoders.org/) and co-founder of [Vindicta](https://vindicta.dev/). At MilSpouse Coders is dedicated To empowering Military Spouses around the globe to tind challenging and fulfilling careers in technology.
 
 
 - 🌱 I’m currently learning Flutter and Dart.
