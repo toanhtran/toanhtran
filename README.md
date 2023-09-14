@@ -6,7 +6,7 @@ I'm a Web and Mobile Developer. I'm the founder of  [MilSpouse Coders](https:htt
 - 🌱 I’m currently learning Flutter and Dart.
 - 💬 Ask me about how to get started with coding and what resources there are for military spouses in tech.
 - 📫 How to reach me: toanh.t.tran@gmail.com or toanh@milspousecoders.org
-- 😄 Pronouns: She/They
+- 😄 Pronouns: Her/She
 
 <!--
 **toanhtran/toanhtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
